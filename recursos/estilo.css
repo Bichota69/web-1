@@ -1,10 +1,4 @@
-@font-face {
-
-    font-family: fuenteCode;/*Nombre con el cual llamare a mi fuente*/
-
-    src: url(/Recursos/Fuente/typewcond_regular.otf);/*Ruta donde esta la fuente*/
-
-    }
+ 
 
     .fondoimagen{
         background-image: url();
